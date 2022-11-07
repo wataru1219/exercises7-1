@@ -1,0 +1,47 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:content-box;
+}
+
+.main-visual{
+  width:100%;
+  height:400px;
+  background-image:url(img/mv.jpg);
+  background-size:cover;
+  background-position:bottom;
+}
+
+/*color指定はしないのか*/
+.main-visual-content{
+  padding:20px;
+}
+
+main{
+  width:840px;
+  margin:50px auto;
+}
+
+.blog-item-1{
+  padding-bottom:30px;
+  margin-bottom:30px;
+  border-bottom:1px solid #d1d1d1;
+}
+
+.blog-item-2{
+  padding-bottom:30px;
+  margin-bottom:30px;
+  border-bottom:1px solid #d1d1d1;
+}
+
+.blog-item-3{
+  padding-bottom:30px;
+  margin-bottom:30px;
+  border-bottom:1px solid #d1d1d1;
+}
+
+.blog-item-4{
+  padding-bottom:30px;
+  margin-bottom:30px;
+  border-bottom:1px solid #d1d1d1;
+}
